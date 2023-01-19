@@ -1,0 +1,7 @@
+insert Blind Lemon Jefferson<SEP>Long Lonesome Blues
+insert Blind Lemon Jefferson<SEP>Long Lonesome Blues
+insert artist Bukka White
+insert song Mississippi Boweavil Blues
+print blocks
+print songs
+print artists

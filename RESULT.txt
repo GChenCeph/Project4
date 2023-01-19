@@ -1,0 +1,854 @@
+|Blind Lemon Jefferson| is added to the artist database.
+Memory pool expanded to be 64 bytes.
+|Long Lonesome Blues| is added to the song database.
+|Ma Rainey| is added to the artist database.
+Memory pool expanded to be 96 bytes.
+|Ma Rainey's Black Bottom| is added to the song database.
+Memory pool expanded to be 128 bytes.
+|Charley Patton| is added to the artist database.
+|Mississippi Boweavil Blues| is added to the song database.
+Memory pool expanded to be 160 bytes.
+|Sleepy John Estes| is added to the artist database.
+Memory pool expanded to be 192 bytes.
+|Street Car Blues| is added to the song database.
+|Bukka White| is added to the artist database.
+Memory pool expanded to be 224 bytes.
+|Fixin' To Die Blues| is added to the song database.
+Artist hash table size doubled.
+|Guitar Slim| is added to the artist database.
+Song hash table size doubled.
+Memory pool expanded to be 256 bytes.
+|The Things That I Used To Do| is added to the song database.
+|Blind Lemon Jefferson| duplicates a record already in the artist database.
+|Got The Blues| is added to the song database.
+Memory pool expanded to be 288 bytes.
+|Little Eva| is added to the artist database.
+|The Loco-Motion| is added to the song database.
+Memory pool expanded to be 320 bytes.
+|Jim Reeves| is added to the artist database.
+|Jingle Bells| is added to the song database.
+Memory pool expanded to be 352 bytes.
+|Mongo Santamaria| is added to the artist database.
+|Watermelon Man| is added to the song database.
+|Style Council| does not exist in the artist database.
+|Ma Rainey| is removed from the artist database.
+|Mississippi Boweavil Blues| is removed from the song database.
+|(The Best Part Of) Breakin' Up| does not exist in the song database.
+Memory pool expanded to be 384 bytes.
+Memory pool expanded to be 416 bytes.
+|Sweet Caroline (Good Times Never Seemed So Good)| is added to the song database.
+Song hash table size doubled.
+|Shout| is added to the song database.
+|Brown Eyed Girl| is added to the song database.
+|The Way You Look Tonight| is added to the song database.
+Memory pool expanded to be 448 bytes.
+|Twist And Shout| is added to the song database.
+|Deadshot| is added to the song database.
+|At Last| is added to the song database.
+Memory pool expanded to be 480 bytes.
+|What A Wonderful World| is added to the song database.
+|My Girl| is added to the song database.
+Memory pool expanded to be 512 bytes.
+|Can’t Help Falling In Love| is added to the song database.
+Memory pool expanded to be 544 bytes.
+|The Twist| is added to the song database.
+Song hash table size doubled.
+|Build Me Up Buttercup| is added to the song database.
+Memory pool expanded to be 576 bytes.
+|Unchained Melody| is added to the song database.
+|Stand By Me| is added to the song database.
+Memory pool expanded to be 608 bytes.
+|Fly Me To The Moon| is added to the song database.
+Memory pool expanded to be 640 bytes.
+Memory pool expanded to be 672 bytes.
+|I Can’t Help Myself (Sugar Pie, Honey Bunch)| is added to the song database.
+Memory pool expanded to be 704 bytes.
+|Ain’t No Mountain High Enough| is added to the song database.
+|All You Need Is Love| is added to the song database.
+Memory pool expanded to be 736 bytes.
+|Ring Of Fire| is added to the song database.
+Memory pool expanded to be 768 bytes.
+|(Sittin’ On) The Dock Of The Bay| is added to the song database.
+Memory pool expanded to be 800 bytes.
+|When A Man Loves A Woman| is added to the song database.
+|Respect| is added to the song database.
+Memory pool expanded to be 832 bytes.
+|Wouldn’t It Be Nice| is added to the song database.
+|Mustang Sally| is added to the song database.
+|L-O-V-E| is added to the song database.
+Memory pool expanded to be 864 bytes.
+|Can’t Take My Eyes Off You| is added to the song database.
+Memory pool expanded to be 896 bytes.
+|Runaround Sue| is added to the song database.
+|Proud Mary| is added to the song database.
+Memory pool expanded to be 928 bytes.
+|Ain’t Too Proud To Beg| is added to the song database.
+|In My Life| is added to the song database.
+Memory pool expanded to be 960 bytes.
+|Oh, Pretty Woman| is added to the song database.
+Song hash table size doubled.
+Memory pool expanded to be 992 bytes.
+|New York, New York| is added to the song database.
+|It Had To Be You| is added to the song database.
+Memory pool expanded to be 1024 bytes.
+|How Sweet It Is To Be Loved By You| is added to the song database.
+Memory pool expanded to be 1056 bytes.
+|I Want You Back| is added to the song database.
+|Sugar Sugar| is added to the song database.
+Memory pool expanded to be 1088 bytes.
+|Do You Love Me| is added to the song database.
+|I Want To Hold Your Hand| is added to the song database.
+Memory pool expanded to be 1120 bytes.
+|I Saw Her Standing There| is added to the song database.
+Memory pool expanded to be 1152 bytes.
+|I Got You Babe| is added to the song database.
+Memory pool expanded to be 1184 bytes.
+|I Got You (I Feel Good)| is added to the song database.
+|Let’s Twist Again| is added to the song database.
+Memory pool expanded to be 1216 bytes.
+|Happy Together| is added to the song database.
+|For Once In My Life| is added to the song database.
+Memory pool expanded to be 1248 bytes.
+|Here Comes The Sun| is added to the song database.
+Memory pool expanded to be 1280 bytes.
+|(I Can’t Get No) Satisfaction| is added to the song database.
+Memory pool expanded to be 1312 bytes.
+|Save The Last Dance For Me| is added to the song database.
+|Crazy| is added to the song database.
+Memory pool expanded to be 1344 bytes.
+|God Only Knows| is added to the song database.
+|When I’m Sixty-Four| is added to the song database.
+Memory pool expanded to be 1376 bytes.
+|Beyond The Sea| is added to the song database.
+Memory pool expanded to be 1408 bytes.
+|With A Little Help From My Friends| is added to the song database.
+Memory pool expanded to be 1440 bytes.
+|Ain’t That a Kick in the Head?| is added to the song database.
+Memory pool expanded to be 1472 bytes.
+|Love and Marriage| is added to the song database.
+|I’m A Believer| is added to the song database.
+Memory pool expanded to be 1504 bytes.
+|Summer Wind| is added to the song database.
+Memory pool expanded to be 1536 bytes.
+|The Way You Do The Things You Do| is added to the song database.
+|Baby I Need Your Loving| is added to the song database.
+Memory pool expanded to be 1568 bytes.
+|Hey Jude| is added to the song database.
+Memory pool expanded to be 1600 bytes.
+|Twistin’ The Night Away| is added to the song database.
+|Bad Moon Rising| is added to the song database.
+|Something| is added to the song database.
+Memory pool expanded to be 1632 bytes.
+|Luck Be A Lady| is added to the song database.
+Memory pool expanded to be 1664 bytes.
+|Good Vibrations| is added to the song database.
+|Jackson| is added to the song database.
+|Chapel Of Love| is added to the song database.
+Memory pool expanded to be 1696 bytes.
+|Under The Boardwalk| is added to the song database.
+Memory pool expanded to be 1728 bytes.
+|You’ve Lost That Lovin’ Feelin’| is added to the song database.
+Memory pool expanded to be 1760 bytes.
+|These Arms Of Mine| is added to the song database.
+Memory pool expanded to be 1792 bytes.
+|(Your Love Keeps Lifting Me) Higher And Higher| is added to the song database.
+Memory pool expanded to be 1824 bytes.
+|Dance To The Music| is added to the song database.
+Song hash table size doubled.
+|Hang On Sloopy| is added to the song database.
+Memory pool expanded to be 1856 bytes.
+|Mony Mony| is added to the song database.
+|Magic Carpet Ride| is added to the song database.
+Memory pool expanded to be 1888 bytes.
+|Louie Louie| is added to the song database.
+|Can’t Buy Me Love| is added to the song database.
+Memory pool expanded to be 1920 bytes.
+|Suspicious Minds| is added to the song database.
+Memory pool expanded to be 1952 bytes.
+|Ob-La-Da Ob-La-Di| is added to the song database.
+|Love Me Do| is added to the song database.
+|Moon River| is added to the song database.
+Memory pool expanded to be 1984 bytes.
+|It’s Not Unusual| is added to the song database.
+Memory pool expanded to be 2016 bytes.
+|Folsom Prison Blues| is added to the song database.
+Memory pool expanded to be 2048 bytes.
+|I Heard It Through The Grapevine| is added to the song database.
+|Georgia On My Mind| is added to the song database.
+Memory pool expanded to be 2080 bytes.
+|I Say A Little Prayer| is added to the song database.
+Memory pool expanded to be 2112 bytes.
+|Eight Days A Week| is added to the song database.
+|Then He Kissed Me| is added to the song database.
+Memory pool expanded to be 2144 bytes.
+|And I Love Her| is added to the song database.
+|Come Together| is added to the song database.
+Memory pool expanded to be 2176 bytes.
+|Honky Tonk Women| is added to the song database.
+Memory pool expanded to be 2208 bytes.
+|Everybody Loves Somebody| is added to the song database.
+|Stop! In The Name Of Love| is added to the song database.
+Memory pool expanded to be 2240 bytes.
+|Barbara Ann| is added to the song database.
+|California Girls| is added to the song database.
+Memory pool expanded to be 2272 bytes.
+|All My Loving| is added to the song database.
+|Born To Be Wild| is added to the song database.
+Memory pool expanded to be 2304 bytes.
+|Down On The Corner/Fortunate Son| is added to the song database.
+Memory pool expanded to be 2336 bytes.
+|This Magic Moment| is added to the song database.
+Memory pool expanded to be 2368 bytes.
+|My Cherie Amour| is added to the song database.
+|Chain Of Fools| is added to the song database.
+Memory pool expanded to be 2400 bytes.
+|Ghost Riders in the Sky| is added to the song database.
+|El Paso| is added to the song database.
+|Cool Water| is added to the song database.
+Memory pool expanded to be 2432 bytes.
+Memory pool expanded to be 2464 bytes.
+|The Streets of Laredo (Cowboy’s Lament)| is added to the song database.
+Memory pool expanded to be 2496 bytes.
+|Back in the Saddle Again| is added to the song database.
+Memory pool expanded to be 2528 bytes.
+|High Noon (Do Not Forsake Me)| is added to the song database.
+|Oh Shenandoah| is added to the song database.
+Memory pool expanded to be 2560 bytes.
+|Tumbling Tumbleweeds| is added to the song database.
+|Home on the Range| is added to the song database.
+Memory pool expanded to be 2592 bytes.
+|Red River Valley| is added to the song database.
+|Big Iron| is added to the song database.
+Memory pool expanded to be 2624 bytes.
+|Don’t Fence Me In| is added to the song database.
+Memory pool expanded to be 2656 bytes.
+|Bury Me Not on the Lone Prairie| is added to the song database.
+|Desperado| is added to the song database.
+Memory pool expanded to be 2688 bytes.
+|Wildfire| is added to the song database.
+|Cattle Call| is added to the song database.
+Memory pool expanded to be 2720 bytes.
+|Pancho and Lefty| is added to the song database.
+|Little Joe the Wrangler| is added to the song database.
+Memory pool expanded to be 2752 bytes.
+|They Call the Wind Maria| is added to the song database.
+|Coyotes| is added to the song database.
+Memory pool expanded to be 2784 bytes.
+|Along the Navajo Trail| is added to the song database.
+Memory pool expanded to be 2816 bytes.
+|Happy Trails| is added to the song database.
+|Rawhide| is added to the song database.
+Memory pool expanded to be 2848 bytes.
+|The Yellow Rose of Texas| is added to the song database.
+Memory pool expanded to be 2880 bytes.
+|Mammas, Don’t Let your Babies Grow Up to Be Cowboys| is added to the song database.
+Memory pool expanded to be 2912 bytes.
+|The Ballad of Davy Crockett| is added to the song database.
+Memory pool expanded to be 2944 bytes.
+|The Wayward Wind| is added to the song database.
+Memory pool expanded to be 2976 bytes.
+|The Strawberry Roan| is added to the song database.
+Memory pool expanded to be 3008 bytes.
+|When the Work's All Done This Fall| is added to the song database.
+|Empty Saddles| is added to the song database.
+Memory pool expanded to be 3040 bytes.
+|The Ballad of the Alamo| is added to the song database.
+|Mule Train| is added to the song database.
+Memory pool expanded to be 3072 bytes.
+|My Heroes Have Always Been Cowboys| is added to the song database.
+Memory pool expanded to be 3104 bytes.
+|Knockin’ on Heaven’s Door| is added to the song database.
+Memory pool expanded to be 3136 bytes.
+|Amarillo by Morning| is added to the song database.
+Memory pool expanded to be 3168 bytes.
+|The Man Who Shot Liberty Valance| is added to the song database.
+Memory pool expanded to be 3200 bytes.
+|The Last Comanche Moon| is added to the song database.
+Memory pool expanded to be 3232 bytes.
+|Oh My Darling Clementine| is added to the song database.
+|The Rebel - Johnny Yuma| is added to the song database.
+Memory pool expanded to be 3264 bytes.
+|The Ballad of Ira Hayes| is added to the song database.
+Memory pool expanded to be 3296 bytes.
+|North to Alaska| is added to the song database.
+Memory pool expanded to be 3328 bytes.
+|My Rifle, My Pony and Me| is added to the song database.
+Memory pool expanded to be 3360 bytes.
+|Don’t Take Your Guns to Town| is added to the song database.
+Memory pool expanded to be 3392 bytes.
+|South of the Border (Down Mexico Way)| is added to the song database.
+Memory pool expanded to be 3424 bytes.
+|Desperados Waiting for a Train| is added to the song database.
+Memory pool expanded to be 3456 bytes.
+|Git Along Little Dogies| is added to the song database.
+|Buffalo Gals| is added to the song database.
+Memory pool expanded to be 3488 bytes.
+|I’m an Old Cowhand (From the Rio Grande)| is added to the song database.
+Memory pool expanded to be 3520 bytes.
+|San Antonio Rose| is added to the song database.
+Memory pool expanded to be 3552 bytes.
+|Gunfight at the O.K. Corral| is added to the song database.
+|Wild Montana Skies| is added to the song database.
+Song hash table size doubled.
+Memory pool expanded to be 3584 bytes.
+|The Last Cowboy Song| is added to the song database.
+Memory pool expanded to be 3616 bytes.
+|The Ballad of Paladin| is added to the song database.
+|Tonight We Ride| is added to the song database.
+Memory pool expanded to be 3648 bytes.
+|Oklahoma| is added to the song database.
+Memory pool expanded to be 3680 bytes.
+Memory pool expanded to be 3712 bytes.
+|I’d Like to Be in Texas for the Roundup in the Spring| is added to the song database.
+|Call You Cowboy| is added to the song database.
+|Bonanza| is added to the song database.
+Memory pool expanded to be 3744 bytes.
+|The Old Double Diamond| is added to the song database.
+|Lorena| is added to the song database.
+Memory pool expanded to be 3776 bytes.
+|The Hanging Tree| is added to the song database.
+Memory pool expanded to be 3808 bytes.
+|Dust Eatin’ Cowboys| is added to the song database.
+|Cowpoke| is added to the song database.
+|Old Timer| is added to the song database.
+Memory pool expanded to be 3840 bytes.
+|Red Headed Stranger| is added to the song database.
+Memory pool expanded to be 3872 bytes.
+|The Last Wild White Buffalo| is added to the song database.
+Memory pool expanded to be 3904 bytes.
+|The Ballad of Jesse James| is added to the song database.
+Memory pool expanded to be 3936 bytes.
+|Faster Horses (The Cowboy and the Poet)| is added to the song database.
+|El Dorado| is added to the song database.
+Memory pool expanded to be 3968 bytes.
+|Goodbye Old Paint| is added to the song database.
+|Tom Dooley| is added to the song database.
+Memory pool expanded to be 4000 bytes.
+|I Want to Be a Cowboy’s Sweetheart| is added to the song database.
+Memory pool expanded to be 4032 bytes.
+|Wayfaring Stranger| is added to the song database.
+Memory pool expanded to be 4064 bytes.
+|The Old Cantina| is added to the song database.
+|I Ride an Old Paint| is added to the song database.
+Memory pool expanded to be 4096 bytes.
+Memory pool expanded to be 4128 bytes.
+|Grandpa (Tell Me 'Bout the Good Old Days)| is added to the song database.
+|Someday Soon| is added to the song database.
+|Summer Wages| is added to the song database.
+Memory pool expanded to be 4160 bytes.
+|The Battle of New Orleans| is added to the song database.
+Memory pool expanded to be 4192 bytes.
+Memory pool expanded to be 4224 bytes.
+|(I've Got Spurs That) Jingle, Jangle, Jingle| is added to the song database.
+Memory pool expanded to be 4256 bytes.
+|Blue Shadows on the Trail| is added to the song database.
+|Oh Susanna| is added to the song database.
+Memory pool expanded to be 4288 bytes.
+|Sweet Betsy from Pike| is added to the song database.
+|The Colorado Trail| is added to the song database.
+Memory pool expanded to be 4320 bytes.
+|When Roy Rogers Was Around| is added to the song database.
+Memory pool expanded to be 4352 bytes.
+|Navajo Rug| is added to the song database.
+|Remember the Alamo| is added to the song database.
+Memory pool expanded to be 4384 bytes.
+|Billy the Kid| is added to the song database.
+|Life's Railway to Heaven| is added to the song database.
+Memory pool expanded to be 4416 bytes.
+|The Old Chisholm Trail| is added to the song database.
+Memory pool expanded to be 4448 bytes.
+|Whatever Happened to Randolph Scott| is added to the song database.
+Memory pool expanded to be 4480 bytes.
+|Desert Pete| is added to the song database.
+|Rocky Mountain High| is added to the song database.
+Memory pool expanded to be 4512 bytes.
+|Theme from The Searchers| is added to the song database.
+Memory pool expanded to be 4544 bytes.
+|Wagon Wheels| is added to the song database.
+Memory pool expanded to be 4576 bytes.
+|Vaya con Dios (May God Be with You)| is added to the song database.
+Memory pool expanded to be 4608 bytes.
+|Ridin’ Down the Canyon| is added to the song database.
+|Shifting Whispering Sands| is added to the song database.
+Memory pool expanded to be 4640 bytes.
+|Oklahoma Hills| is added to the song database.
+Memory pool expanded to be 4672 bytes.
+|The Master’s Call| is added to the song database.
+|Livin' on a Prayer| is added to the song database.
+Memory pool expanded to be 4704 bytes.
+|Pour Some Sugar on Me| is added to the song database.
+Memory pool expanded to be 4736 bytes.
+|Hungry Like the Wolf| is added to the song database.
+|Billie Jean| is added to the song database.
+Memory pool expanded to be 4768 bytes.
+|When Doves Cry| is added to the song database.
+Memory pool expanded to be 4800 bytes.
+|I Can't Go for That (No Can Do)| is added to the song database.
+|Sweet Child O' Mine| is added to the song database.
+Memory pool expanded to be 4832 bytes.
+|Like a Virgin| is added to the song database.
+|Walk This Way| is added to the song database.
+Memory pool expanded to be 4864 bytes.
+|You Shook Me All Night Long| is added to the song database.
+Memory pool expanded to be 4896 bytes.
+|Don't Stop Believin'| is added to the song database.
+|How Will I Know| is added to the song database.
+Memory pool expanded to be 4928 bytes.
+|With or Without You| is added to the song database.
+Memory pool expanded to be 4960 bytes.
+|Walk Like an Egyptian| is added to the song database.
+|Jump| is added to the song database.
+|Need You Tonight| is added to the song database.
+Memory pool expanded to be 4992 bytes.
+|Here I Go Again| is added to the song database.
+|Come on Eileen| is added to the song database.
+Memory pool expanded to be 5024 bytes.
+|Time After Time| is added to the song database.
+|Jessie's Girl| is added to the song database.
+Memory pool expanded to be 5056 bytes.
+|Beat It| is added to the song database.
+|Just Like Heaven| is added to the song database.
+Memory pool expanded to be 5088 bytes.
+|Girls Just Want to Have Fun| is added to the song database.
+Memory pool expanded to be 5120 bytes.
+|Take on Me| is added to the song database.
+|Our Lips Are Sealed| is added to the song database.
+Memory pool expanded to be 5152 bytes.
+|Welcome to the Jungle| is added to the song database.
+|Too Shy| is added to the song database.
+Memory pool expanded to be 5184 bytes.
+|Wake Me Up Before You Go-Go| is added to the song database.
+Memory pool expanded to be 5216 bytes.
+|Burning Down the House| is added to the song database.
+Memory pool expanded to be 5248 bytes.
+|Love Is a Battlefield| is added to the song database.
+|Under Pressure| is added to the song database.
+Memory pool expanded to be 5280 bytes.
+|Sister Christian| is added to the song database.
+|Tainted Love| is added to the song database.
+Memory pool expanded to be 5312 bytes.
+|Every Rose Has It's Thorn| is added to the song database.
+Memory pool expanded to be 5344 bytes.
+|In the Air Tonight| is added to the song database.
+|867-5309 - Jenny| is added to the song database.
+Memory pool expanded to be 5376 bytes.
+|Janie's Got a Gun| is added to the song database.
+Memory pool expanded to be 5408 bytes.
+|Pride (In the Name of Love)| is added to the song database.
+|I Melt With You| is added to the song database.
+Memory pool expanded to be 5440 bytes.
+|Love Shack| is added to the song database.
+|Dr. Feelgood| is added to the song database.
+Memory pool expanded to be 5472 bytes.
+|London Calling| is added to the song database.
+|The Look of Love| is added to the song database.
+Memory pool expanded to be 5504 bytes.
+|Cruel Summer| is added to the song database.
+|Nasty| is added to the song database.
+|Every Breath You Take| is added to the song database.
+Memory pool expanded to be 5536 bytes.
+|We're Not Gonna Take It| is added to the song database.
+Memory pool expanded to be 5568 bytes.
+|Born in the U.S.A.| is added to the song database.
+Memory pool expanded to be 5600 bytes.
+|Fight for Your Right| is added to the song database.
+Memory pool expanded to be 5632 bytes.
+|Sweet Dreams (Are Made of This)| is added to the song database.
+|Round And Round| is added to the song database.
+Memory pool expanded to be 5664 bytes.
+|You Spin Me 'Round [Extended Version]| is added to the song database.
+Memory pool expanded to be 5696 bytes.
+|White Wedding| is added to the song database.
+|Push It| is added to the song database.
+|I Ran| is added to the song database.
+Memory pool expanded to be 5728 bytes.
+|Total Eclipse of the Heart| is added to the song database.
+|Mickey| is added to the song database.
+Memory pool expanded to be 5760 bytes.
+|Do You Really Want to Hurt Me?| is added to the song database.
+Memory pool expanded to be 5792 bytes.
+|Jack And Diane| is added to the song database.
+|Bust a Move| is added to the song database.
+Memory pool expanded to be 5824 bytes.
+|Mr. Roboto| is added to the song database.
+|Take My Breath Away| is added to the song database.
+Memory pool expanded to be 5856 bytes.
+|Whip It| is added to the song database.
+|Straight Up| is added to the song database.
+Memory pool expanded to be 5888 bytes.
+|I Want to Know What Love Is| is added to the song database.
+Memory pool expanded to be 5920 bytes.
+|Just Can't Get Enough| is added to the song database.
+|Keep on Loving You| is added to the song database.
+Memory pool expanded to be 5952 bytes.
+|Fight the Power| is added to the song database.
+Memory pool expanded to be 5984 bytes.
+Memory pool expanded to be 6016 bytes.
+|It's the End of the World as We Know It (And I Feel Fine)| is added to the song database.
+|I Love Rock 'N Roll| is added to the song database.
+Memory pool expanded to be 6048 bytes.
+|Super Freak| is added to the song database.
+Memory pool expanded to be 6080 bytes.
+|One Thing Leads to Another| is added to the song database.
+|99 Luftballoons| is added to the song database.
+|Faith| is added to the song database.
+Memory pool expanded to be 6112 bytes.
+|Little Red Corvette| is added to the song database.
+Memory pool expanded to be 6144 bytes.
+|She Blinded Me With Science| is added to the song database.
+|Candy Girl| is added to the song database.
+Memory pool expanded to be 6176 bytes.
+|Call Me| is added to the song database.
+|Don't You Want Me?| is added to the song database.
+Memory pool expanded to be 6208 bytes.
+|It Takes Two| is added to the song database.
+|Word Up| is added to the song database.
+|Tempted| is added to the song database.
+|Kiss| is added to the song database.
+Memory pool expanded to be 6240 bytes.
+|All Night Long (All Night)| is added to the song database.
+Memory pool expanded to be 6272 bytes.
+|Addicted to Love| is added to the song database.
+|I Want Candy| is added to the song database.
+Memory pool expanded to be 6304 bytes.
+|Rock Me Amedeus| is added to the song database.
+|Ain't Nobody| is added to the song database.
+Memory pool expanded to be 6336 bytes.
+|Brass in Pocket| is added to the song database.
+|Wild Thing| is added to the song database.
+Memory pool expanded to be 6368 bytes.
+|Walking on Sunshine| is added to the song database.
+Memory pool expanded to be 6400 bytes.
+|You Got It (The Right Stuff)| is added to the song database.
+|Cars| is added to the song database.
+|Start Me Up| is added to the song database.
+Memory pool expanded to be 6432 bytes.
+|Only in My Dreams| is added to the song database.
+|Down Under| is added to the song database.
+Memory pool expanded to be 6464 bytes.
+|What I Like About You| is added to the song database.
+Memory pool expanded to be 6496 bytes.
+|My Perrogative| is added to the song database.
+|Everybody Have Fun Tonight| is added to the song database.
+Memory pool expanded to be 6528 bytes.
+|Working for the Weekend| is added to the song database.
+|It’s Not Unusual| is removed from the song database.
+|Folsom Prison Blues| is removed from the song database.
+|I Heard It Through The Grapevine| is removed from the song database.
+|Georgia On My Mind| is removed from the song database.
+|I Say A Little Prayer| is removed from the song database.
+|Eight Days A Week| is removed from the song database.
+|Then He Kissed Me| is removed from the song database.
+|And I Love Her| is removed from the song database.
+|Come Together| is removed from the song database.
+|Honky Tonk Women| is removed from the song database.
+|Everybody Loves Somebody| is removed from the song database.
+|Stop! In The Name Of Love| is removed from the song database.
+|Barbara Ann| is removed from the song database.
+|California Girls| is removed from the song database.
+|All My Loving| is removed from the song database.
+|Born To Be Wild| is removed from the song database.
+|Down On The Corner/Fortunate Son| is removed from the song database.
+|This Magic Moment| is removed from the song database.
+|My Cherie Amour| is removed from the song database.
+|Chain Of Fools| is removed from the song database.
+|Ghost Riders in the Sky| is removed from the song database.
+|El Paso| is removed from the song database.
+|Cool Water| is removed from the song database.
+|The Streets of Laredo (Cowboy’s Lament)| is removed from the song database.
+|Back in the Saddle Again| is removed from the song database.
+|High Noon (Do Not Forsake Me)| is removed from the song database.
+|Oh Shenandoah| is removed from the song database.
+|Tumbling Tumbleweeds| is removed from the song database.
+|Home on the Range| is removed from the song database.
+|Red River Valley| is removed from the song database.
+|Big Iron| is removed from the song database.
+|Don’t Fence Me In| is removed from the song database.
+|Bury Me Not on the Lone Prairie| is removed from the song database.
+|Desperado| is removed from the song database.
+|Wildfire| is removed from the song database.
+|Cattle Call| is removed from the song database.
+|Pancho and Lefty| is removed from the song database.
+|Little Joe the Wrangler| is removed from the song database.
+|They Call the Wind Maria| is removed from the song database.
+|Coyotes| is removed from the song database.
+|Along the Navajo Trail| is removed from the song database.
+|Happy Trails| is removed from the song database.
+|Rawhide| is removed from the song database.
+|The Yellow Rose of Texas| is removed from the song database.
+|Mammas, Don’t Let your Babies Grow Up to Be Cowboys| is removed from the song database.
+|The Ballad of Davy Crockett| is removed from the song database.
+|The Wayward Wind| is removed from the song database.
+|The Strawberry Roan| is removed from the song database.
+|When the Work's All Done This Fall| is removed from the song database.
+|Empty Saddles| is removed from the song database.
+|The Ballad of the Alamo| is removed from the song database.
+|Mule Train| is removed from the song database.
+|My Heroes Have Always Been Cowboys| is removed from the song database.
+|Knockin’ on Heaven’s Door| is removed from the song database.
+|Amarillo by Morning| is removed from the song database.
+|The Man Who Shot Liberty Valance| is removed from the song database.
+|The Last Comanche Moon| is removed from the song database.
+|Oh My Darling Clementine| is removed from the song database.
+|The Rebel - Johnny Yuma| is removed from the song database.
+|The Ballad of Ira Hayes| is removed from the song database.
+|North to Alaska| is removed from the song database.
+|My Rifle, My Pony and Me| is removed from the song database.
+|Don’t Take Your Guns to Town| is removed from the song database.
+|South of the Border (Down Mexico Way)| is removed from the song database.
+|Desperados Waiting for a Train| is removed from the song database.
+|Git Along Little Dogies| is removed from the song database.
+|Buffalo Gals| is removed from the song database.
+|I’m an Old Cowhand (From the Rio Grande)| is removed from the song database.
+|San Antonio Rose| is removed from the song database.
+|Gunfight at the O.K. Corral| is removed from the song database.
+|Wild Montana Skies| is removed from the song database.
+|The Last Cowboy Song| is removed from the song database.
+|The Ballad of Paladin| is removed from the song database.
+|Tonight We Ride| is removed from the song database.
+|Oklahoma| is removed from the song database.
+|I’d Like to Be in Texas for the Roundup in the Spring| is removed from the song database.
+|Call You Cowboy| is removed from the song database.
+|Bonanza| is removed from the song database.
+|The Old Double Diamond| is removed from the song database.
+|Lorena| is removed from the song database.
+|The Hanging Tree| is removed from the song database.
+|Dust Eatin’ Cowboys| is removed from the song database.
+|Cowpoke| is removed from the song database.
+|Old Timer| is removed from the song database.
+|Red Headed Stranger| is removed from the song database.
+|The Last Wild White Buffalo| is removed from the song database.
+|The Ballad of Jesse James| is removed from the song database.
+|Faster Horses (The Cowboy and the Poet)| is removed from the song database.
+|El Dorado| is removed from the song database.
+|Goodbye Old Paint| is removed from the song database.
+|Tom Dooley| is removed from the song database.
+|I Want to Be a Cowboy’s Sweetheart| is removed from the song database.
+|Wayfaring Stranger| is removed from the song database.
+|The Old Cantina| is removed from the song database.
+|I Ride an Old Paint| is removed from the song database.
+|Grandpa (Tell Me 'Bout the Good Old Days)| is removed from the song database.
+|Someday Soon| is removed from the song database.
+|Summer Wages| is removed from the song database.
+|The Battle of New Orleans| is removed from the song database.
+|(I've Got Spurs That) Jingle, Jangle, Jingle| is removed from the song database.
+|Blue Shadows on the Trail| is removed from the song database.
+|Oh Susanna| is removed from the song database.
+|Sweet Betsy from Pike| is removed from the song database.
+|The Colorado Trail| is removed from the song database.
+|When Roy Rogers Was Around| is removed from the song database.
+|Navajo Rug| is removed from the song database.
+|Remember the Alamo| is removed from the song database.
+|Billy the Kid| is removed from the song database.
+|Life's Railway to Heaven| is removed from the song database.
+|The Old Chisholm Trail| is removed from the song database.
+|Whatever Happened to Randolph Scott| is removed from the song database.
+|Desert Pete| is removed from the song database.
+|Rocky Mountain High| is removed from the song database.
+|Theme from The Searchers| is removed from the song database.
+|Wagon Wheels| is removed from the song database.
+|Vaya con Dios (May God Be with You)| is removed from the song database.
+|Ridin’ Down the Canyon| is removed from the song database.
+|Shifting Whispering Sands| is removed from the song database.
+|Oklahoma Hills| is removed from the song database.
+|The Master’s Call| is removed from the song database.
+|Livin' on a Prayer| is removed from the song database.
+|Pour Some Sugar on Me| is removed from the song database.
+|Hungry Like the Wolf| is removed from the song database.
+|Billie Jean| is removed from the song database.
+|When Doves Cry| is removed from the song database.
+|I Can't Go for That (No Can Do)| is removed from the song database.
+|Sweet Child O' Mine| is removed from the song database.
+|Like a Virgin| is removed from the song database.
+|Walk This Way| is removed from the song database.
+|You Shook Me All Night Long| is removed from the song database.
+|Don't Stop Believin'| is removed from the song database.
+|How Will I Know| is removed from the song database.
+|With or Without You| is removed from the song database.
+|Walk Like an Egyptian| is removed from the song database.
+(51,4) -> (123,2) -> (1947,2988) -> (6518,10)
+|The Way You Do The Things You Do| 0
+|Street Car Blues| 5
+|Unchained Melody| 6
+|Wouldn’t It Be Nice| 7
+|Ob-La-Da Ob-La-Di| 9
+|My Perrogative| 15
+|Hey Jude| 18
+|Watermelon Man| 25
+|Rock Me Amedeus| 28
+|Take My Breath Away| 33
+|I Can’t Help Myself (Sugar Pie, Honey Bunch)| 37
+|Proud Mary| 38
+|Sweet Caroline (Good Times Never Seemed So Good)| 39
+|I Got You (I Feel Good)| 45
+|Mickey| 50
+|Total Eclipse of the Heart| 68
+|Shout| 71
+|Good Vibrations| 72
+|You’ve Lost That Lovin’ Feelin’| 74
+|Kiss| 75
+|Can’t Take My Eyes Off You| 85
+|When A Man Loves A Woman| 86
+|Straight Up| 92
+|What A Wonderful World| 100
+|I Saw Her Standing There| 105
+|For Once In My Life| 107
+|Do You Love Me| 111
+|Push It| 112
+|867-5309 - Jenny| 114
+|Need You Tonight| 119
+|Whip It| 120
+|I Want to Know What Love Is| 121
+|When I’m Sixty-Four| 122
+|It's the End of the World as We Know It (And I Feel Fine)| 127
+|Little Red Corvette| 128
+|Don't You Want Me?| 129
+|You Spin Me 'Round [Extended Version]| 132
+|I Want You Back| 135
+|London Calling| 138
+|Runaround Sue| 141
+|What I Like About You| 142
+|Ain't Nobody| 151
+|I Want Candy| 152
+|(Your Love Keeps Lifting Me) Higher And Higher| 159
+|Only in My Dreams| 161
+|At Last| 162
+|(Sittin’ On) The Dock Of The Bay| 167
+|Hang On Sloopy| 171
+|Can’t Buy Me Love| 181
+|It Had To Be You| 185
+|New York, New York| 188
+|Here I Go Again| 193
+|Do You Really Want to Hurt Me?| 197
+|Our Lips Are Sealed| 199
+|Every Rose Has It's Thorn| 200
+|Jump| 202
+|Ain’t Too Proud To Beg| 204
+|Just Can't Get Enough| 205
+|Got The Blues| 208
+|Pride (In the Name of Love)| 209
+|Stand By Me| 215
+|The Way You Look Tonight| 217
+|Beat It| 226
+|Mony Mony| 230
+|Beyond The Sea| 253
+|Oh, Pretty Woman| 258
+|Chapel Of Love| 260
+|Love Is a Battlefield| 268
+|The Things That I Used To Do| 276
+|I Got You Babe| 277
+|Fight the Power| 279
+|Tainted Love| 285
+|L-O-V-E| 290
+|Keep on Loving You| 292
+|Magic Carpet Ride| 295
+|Baby I Need Your Loving| 297
+|Girls Just Want to Have Fun| 298
+|Super Freak| 299
+|Sugar Sugar| 300
+|Something| 302
+|Faith| 303
+|Just Like Heaven| 304
+|One Thing Leads to Another| 306
+|Respect| 311
+|Crazy| 316
+|Brass in Pocket| 320
+|Cars| 324
+|Janie's Got a Gun| 325
+|With A Little Help From My Friends| 326
+|Nasty| 327
+|Every Breath You Take| 328
+|I Want To Hold Your Hand| 329
+|Tempted| 332
+|Bust a Move| 337
+|Dance To The Music| 338
+|All You Need Is Love| 340
+|Let’s Twist Again| 343
+|I’m A Believer| 347
+|Love and Marriage| 355
+|Twistin’ The Night Away| 359
+|Sweet Dreams (Are Made of This)| 360
+|Born in the U.S.A.| 365
+|Ain’t No Mountain High Enough| 366
+|Call Me| 371
+|I Melt With You| 375
+|Everybody Have Fun Tonight| 377
+|These Arms Of Mine| 378
+|Fixin' To Die Blues| 381
+|White Wedding| 391
+|Come on Eileen| 398
+|Round And Round| 399
+|Luck Be A Lady| 401
+|We're Not Gonna Take It| 402
+|Mr. Roboto| 403
+|Sister Christian| 404
+|Jingle Bells| 411
+|Cruel Summer| 412
+|Walking on Sunshine| 413
+|Under Pressure| 415
+|Summer Wind| 417
+|Louie Louie| 422
+|In My Life| 424
+|Here Comes The Sun| 426
+|God Only Knows| 429
+|Candy Girl| 431
+|Love Me Do| 432
+|My Girl| 438
+|The Loco-Motion| 439
+|Ring Of Fire| 440
+|I Ran| 448
+|Time After Time| 450
+|I Love Rock 'N Roll| 452
+|Ain’t That a Kick in the Head?| 453
+|Ma Rainey's Black Bottom| 456
+|Love Shack| 463
+|Moon River| 466
+|In the Air Tonight| 497
+|You Got It (The Right Stuff)| 504
+|Welcome to the Jungle| 508
+|99 Luftballoons| 510
+|Save The Last Dance For Me| 520
+|Fight for Your Right| 522
+|Happy Together| 525
+|How Sweet It Is To Be Loved By You| 527
+|The Look of Love| 528
+|Addicted to Love| 529
+|Bad Moon Rising| 536
+|Suspicious Minds| 538
+|Twist And Shout| 539
+|The Twist| 540
+|Burning Down the House| 546
+|(I Can’t Get No) Satisfaction| 547
+|Too Shy| 551
+|Long Lonesome Blues| 555
+|Deadshot| 567
+|Wake Me Up Before You Go-Go| 569
+|Jackson| 573
+|Jessie's Girl| 575
+|Take on Me| 577
+|Down Under| 585
+|It Takes Two| 586
+|Can’t Help Falling In Love| 598
+|Fly Me To The Moon| 599
+|Working for the Weekend| 602
+|Build Me Up Buttercup| 605
+|Wild Thing| 614
+|Start Me Up| 615
+|Under The Boardwalk| 622
+|Dr. Feelgood| 625
+|She Blinded Me With Science| 628
+|All Night Long (All Night)| 629
+|Word Up| 631
+|Jack And Diane| 632
+|Mustang Sally| 634
+|Brown Eyed Girl| 638
+total songs: 175
+|Blind Lemon Jefferson| 0
+|Bukka White| 4
+|Sleepy John Estes| 10
+|Guitar Slim| 12
+|Jim Reeves| 13
+|Charley Patton| 14
+|Little Eva| 18
+|Mongo Santamaria| 19
+total artists: 8

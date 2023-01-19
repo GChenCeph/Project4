@@ -1,0 +1,9 @@
+insert Blind Lemon Jefferson<SEP>Long Lonesome Blues
+insert Ma Rainey<SEP>Long Lonesome Blues
+print blocks
+print songs
+print artists
+remove artist Blind Lemon Jefferson
+print blocks
+remove artist Bukka White
+remove song Mississippi Boweavil Blues

@@ -1,0 +1,7 @@
+remove song When Summer's Through
+print blocks
+print songs
+print artists
+insert Blind Lemon Jefferson<SEP>Long Lonesome Blues
+insert Ma Rainey<SEP>Ma Rainey's Black Bottom
+print blocks

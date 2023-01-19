@@ -1,0 +1,8 @@
+insert Blind Lemon Jefferson<SEP>Long Lonesome Blues
+insert Ma Rainey<SEP>Ma Rainey's Black Bottom
+insert Charley Patton<SEP>Mississippi Boweavil Blues
+insert Sleepy John Estes<SEP>Street Car Blues
+insert Bukka White<SEP>Fixin' To Die Blues
+print blocks
+print songs
+print artists

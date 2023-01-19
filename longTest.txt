@@ -1,0 +1,454 @@
+insert Blind Lemon Jefferson<SEP>Long Lonesome Blues
+insert Ma Rainey<SEP>Ma Rainey's Black Bottom
+insert Charley Patton<SEP>Mississippi Boweavil Blues
+insert Sleepy John Estes<SEP>Street Car Blues
+insert Bukka White<SEP>Fixin' To Die Blues
+insert Guitar Slim<SEP>The Things That I Used To Do
+insert Blind Lemon Jefferson<SEP>Got The Blues
+insert Little Eva<SEP>The Loco-Motion
+insert Jim Reeves<SEP>Jingle Bells
+insert Mongo Santamaria<SEP>Watermelon Man
+remove artist Style Council
+remove artist Ma Rainey
+remove song Mississippi Boweavil Blues
+remove song (The Best Part Of) Breakin' Up
+
+insert song Sweet Caroline (Good Times Never Seemed So Good)
+insert song Shout
+insert song Brown Eyed Girl
+insert song The Way You Look Tonight
+insert song Twist And Shout
+insert song Deadshot
+insert song At Last
+insert song What A Wonderful World
+insert song My Girl
+insert song Can’t Help Falling In Love
+insert song The Twist
+insert song Build Me Up Buttercup
+insert song Unchained Melody
+insert song Stand By Me
+insert song Fly Me To The Moon
+insert song I Can’t Help Myself (Sugar Pie, Honey Bunch)
+insert song Ain’t No Mountain High Enough 
+insert song All You Need Is Love
+insert song Ring Of Fire
+insert song (Sittin’ On) The Dock Of The Bay
+insert song When A Man Loves A Woman
+insert song Respect
+insert song Wouldn’t It Be Nice
+insert song Mustang Sally
+insert song L-O-V-E
+insert song Can’t Take My Eyes Off You
+insert song Runaround Sue
+insert song Proud Mary
+insert song Ain’t Too Proud To Beg
+insert song In My Life
+insert song Oh, Pretty Woman
+insert song New York, New York
+insert song It Had To Be You
+insert song How Sweet It Is To Be Loved By You
+insert song I Want You Back
+insert song Sugar Sugar
+insert song Do You Love Me
+insert song I Want To Hold Your Hand
+insert song I Saw Her Standing There
+insert song I Got You Babe
+insert song I Got You (I Feel Good)
+insert song Let’s Twist Again
+insert song Happy Together
+insert song For Once In My Life
+insert song Here Comes The Sun
+insert song (I Can’t Get No) Satisfaction
+insert song Save The Last Dance For Me
+insert song Crazy
+insert song God Only Knows
+insert song When I’m Sixty-Four
+insert song Beyond The Sea
+insert song With A Little Help From My Friends
+insert song Ain’t That a Kick in the Head?
+insert song Love and Marriage
+insert song I’m A Believer
+insert song Summer Wind
+insert song The Way You Do The Things You Do
+insert song Baby I Need Your Loving
+insert song Hey Jude
+insert song Twistin’ The Night Away
+insert song Bad Moon Rising
+insert song Something
+insert song Luck Be A Lady
+insert song Good Vibrations
+insert song Jackson
+insert song Chapel Of Love
+insert song Under The Boardwalk
+insert song You’ve Lost That Lovin’ Feelin’
+insert song These Arms Of Mine
+insert song (Your Love Keeps Lifting Me) Higher And Higher
+insert song Dance To The Music
+insert song Hang On Sloopy
+insert song Mony Mony
+insert song Magic Carpet Ride
+insert song Louie Louie
+insert song Can’t Buy Me Love
+insert song Suspicious Minds
+insert song Ob-La-Da Ob-La-Di
+insert song Love Me Do
+insert song Moon River
+insert song It’s Not Unusual
+insert song Folsom Prison Blues
+insert song I Heard It Through The Grapevine
+insert song Georgia On My Mind
+insert song I Say A Little Prayer
+insert song Eight Days A Week
+insert song Then He Kissed Me
+insert song And I Love Her
+insert song Come Together
+insert song Honky Tonk Women
+insert song Everybody Loves Somebody
+insert song Stop! In The Name Of Love
+insert song Barbara Ann
+insert song California Girls
+insert song All My Loving
+insert song Born To Be Wild
+insert song Down On The Corner/Fortunate Son
+insert song This Magic Moment
+insert song My Cherie Amour
+insert song Chain Of Fools
+insert song Ghost Riders in the Sky
+insert song El Paso
+insert song Cool Water
+insert song The Streets of Laredo (Cowboy’s Lament)
+insert song Back in the Saddle Again
+insert song High Noon (Do Not Forsake Me)
+insert song Oh Shenandoah
+insert song Tumbling Tumbleweeds
+insert song Home on the Range
+insert song Red River Valley
+insert song Big Iron
+insert song Don’t Fence Me In
+insert song Bury Me Not on the Lone Prairie
+insert song Desperado
+insert song Wildfire
+insert song Cattle Call
+insert song Pancho and Lefty
+insert song Little Joe the Wrangler
+insert song They Call the Wind Maria
+insert song Coyotes
+insert song Along the Navajo Trail
+insert song Happy Trails
+insert song Rawhide
+insert song The Yellow Rose of Texas
+insert song Mammas, Don’t Let your Babies Grow Up to Be Cowboys
+insert song The Ballad of Davy Crockett
+insert song The Wayward Wind
+insert song The Strawberry Roan
+insert song When the Work's All Done This Fall
+insert song Empty Saddles
+insert song The Ballad of the Alamo
+insert song Mule Train
+insert song My Heroes Have Always Been Cowboys
+insert song Knockin’ on Heaven’s Door
+insert song Amarillo by Morning
+insert song The Man Who Shot Liberty Valance
+insert song The Last Comanche Moon
+insert song Oh My Darling Clementine
+insert song The Rebel - Johnny Yuma
+insert song The Ballad of Ira Hayes
+insert song North to Alaska
+insert song My Rifle, My Pony and Me
+insert song Don’t Take Your Guns to Town
+insert song South of the Border (Down Mexico Way)
+insert song Desperados Waiting for a Train
+insert song Git Along Little Dogies
+insert song Buffalo Gals
+insert song I’m an Old Cowhand (From the Rio Grande)
+insert song San Antonio Rose
+insert song Gunfight at the O.K. Corral
+insert song Wild Montana Skies
+insert song The Last Cowboy Song
+insert song The Ballad of Paladin
+insert song Tonight We Ride
+insert song Oklahoma
+insert song I’d Like to Be in Texas for the Roundup in the Spring
+insert song Call You Cowboy
+insert song Bonanza
+insert song The Old Double Diamond
+insert song Lorena
+insert song The Hanging Tree
+insert song Dust Eatin’ Cowboys
+insert song Cowpoke
+insert song Old Timer
+insert song Red Headed Stranger
+insert song The Last Wild White Buffalo
+insert song The Ballad of Jesse James
+insert song Faster Horses (The Cowboy and the Poet)
+insert song El Dorado
+insert song Goodbye Old Paint
+insert song Tom Dooley
+insert song I Want to Be a Cowboy’s Sweetheart
+insert song Wayfaring Stranger
+insert song The Old Cantina
+insert song I Ride an Old Paint
+insert song Grandpa (Tell Me 'Bout the Good Old Days)
+insert song Someday Soon
+insert song Summer Wages
+insert song The Battle of New Orleans
+insert song (I've Got Spurs That) Jingle, Jangle, Jingle
+insert song Blue Shadows on the Trail
+insert song Oh Susanna
+insert song Sweet Betsy from Pike
+insert song The Colorado Trail
+insert song When Roy Rogers Was Around
+insert song Navajo Rug
+insert song Remember the Alamo
+insert song Billy the Kid
+insert song Life's Railway to Heaven
+insert song The Old Chisholm Trail
+insert song Whatever Happened to Randolph Scott
+insert song Desert Pete
+insert song Rocky Mountain High
+insert song Theme from The Searchers
+insert song Wagon Wheels
+insert song Vaya con Dios (May God Be with You)
+insert song Ridin’ Down the Canyon
+insert song Shifting Whispering Sands
+insert song Oklahoma Hills
+insert song The Master’s Call
+insert song Livin' on a Prayer
+insert song Pour Some Sugar on Me
+insert song Hungry Like the Wolf
+insert song Billie Jean
+insert song When Doves Cry
+insert song I Can't Go for That (No Can Do)
+insert song Sweet Child O' Mine
+insert song Like a Virgin
+insert song Walk This Way
+insert song You Shook Me All Night Long
+insert song Don't Stop Believin'
+insert song How Will I Know
+insert song With or Without You
+insert song Walk Like an Egyptian
+insert song Jump
+insert song Need You Tonight
+insert song Here I Go Again
+insert song Come on Eileen
+insert song Time After Time
+insert song Jessie's Girl
+insert song Beat It
+insert song Just Like Heaven
+insert song Girls Just Want to Have Fun
+insert song Take on Me
+insert song Our Lips Are Sealed
+insert song Welcome to the Jungle
+insert song Too Shy
+insert song Wake Me Up Before You Go-Go
+insert song Burning Down the House
+insert song Love Is a Battlefield
+insert song Under Pressure
+insert song Sister Christian
+insert song Tainted Love
+insert song Every Rose Has It's Thorn
+insert song In the Air Tonight
+insert song 867-5309 - Jenny
+insert song Janie's Got a Gun
+insert song Pride (In the Name of Love)
+insert song I Melt With You
+insert song Love Shack
+insert song Dr. Feelgood
+insert song London Calling
+insert song The Look of Love
+insert song Cruel Summer
+insert song Nasty
+insert song Every Breath You Take
+insert song We're Not Gonna Take It
+insert song Born in the U.S.A.
+insert song Fight for Your Right
+insert song Sweet Dreams (Are Made of This)
+insert song Round And Round
+insert song You Spin Me 'Round [Extended Version]
+insert song White Wedding
+insert song Push It
+insert song I Ran
+insert song Total Eclipse of the Heart
+insert song Mickey
+insert song Do You Really Want to Hurt Me?
+insert song Jack And Diane
+insert song Bust a Move
+insert song Mr. Roboto
+insert song Take My Breath Away
+insert song Whip It
+insert song Straight Up
+insert song I Want to Know What Love Is
+insert song Just Can't Get Enough
+insert song Keep on Loving You
+insert song Fight the Power
+insert song It's the End of the World as We Know It (And I Feel Fine)
+insert song I Love Rock 'N Roll
+insert song Super Freak
+insert song One Thing Leads to Another
+insert song 99 Luftballoons
+insert song Faith
+insert song Little Red Corvette
+insert song She Blinded Me With Science
+insert song Candy Girl
+insert song Call Me
+insert song Don't You Want Me?
+insert song It Takes Two
+insert song Word Up
+insert song Tempted
+insert song Kiss
+insert song All Night Long (All Night)
+insert song Addicted to Love
+insert song I Want Candy
+insert song Rock Me Amedeus
+insert song Ain't Nobody
+insert song Brass in Pocket
+insert song Wild Thing
+insert song Walking on Sunshine
+insert song You Got It (The Right Stuff)
+insert song Cars
+insert song Start Me Up
+insert song Only in My Dreams
+insert song Down Under
+insert song What I Like About You
+insert song My Perrogative
+insert song Everybody Have Fun Tonight
+insert song Working for the Weekend
+
+remove song It’s Not Unusual
+remove song Folsom Prison Blues
+remove song I Heard It Through The Grapevine
+remove song Georgia On My Mind
+remove song I Say A Little Prayer
+remove song Eight Days A Week
+remove song Then He Kissed Me
+remove song And I Love Her
+remove song Come Together
+remove song Honky Tonk Women
+remove song Everybody Loves Somebody
+remove song Stop! In The Name Of Love
+remove song Barbara Ann
+remove song California Girls
+remove song All My Loving
+remove song Born To Be Wild
+remove song Down On The Corner/Fortunate Son
+remove song This Magic Moment
+remove song My Cherie Amour
+remove song Chain Of Fools
+remove song Ghost Riders in the Sky
+remove song El Paso
+remove song Cool Water
+remove song The Streets of Laredo (Cowboy’s Lament)
+remove song Back in the Saddle Again
+remove song High Noon (Do Not Forsake Me)
+remove song Oh Shenandoah
+remove song Tumbling Tumbleweeds
+remove song Home on the Range
+remove song Red River Valley
+remove song Big Iron
+remove song Don’t Fence Me In
+remove song Bury Me Not on the Lone Prairie
+remove song Desperado
+remove song Wildfire
+remove song Cattle Call
+remove song Pancho and Lefty
+remove song Little Joe the Wrangler
+remove song They Call the Wind Maria
+remove song Coyotes
+remove song Along the Navajo Trail
+remove song Happy Trails
+remove song Rawhide
+remove song The Yellow Rose of Texas
+remove song Mammas, Don’t Let your Babies Grow Up to Be Cowboys
+remove song The Ballad of Davy Crockett
+remove song The Wayward Wind
+remove song The Strawberry Roan
+remove song When the Work's All Done This Fall
+remove song Empty Saddles
+remove song The Ballad of the Alamo
+remove song Mule Train
+remove song My Heroes Have Always Been Cowboys
+remove song Knockin’ on Heaven’s Door
+remove song Amarillo by Morning
+remove song The Man Who Shot Liberty Valance
+remove song The Last Comanche Moon
+remove song Oh My Darling Clementine
+remove song The Rebel - Johnny Yuma
+remove song The Ballad of Ira Hayes
+remove song North to Alaska
+remove song My Rifle, My Pony and Me
+remove song Don’t Take Your Guns to Town
+remove song South of the Border (Down Mexico Way)
+remove song Desperados Waiting for a Train
+remove song Git Along Little Dogies
+remove song Buffalo Gals
+remove song I’m an Old Cowhand (From the Rio Grande)
+remove song San Antonio Rose
+remove song Gunfight at the O.K. Corral
+remove song Wild Montana Skies
+remove song The Last Cowboy Song
+remove song The Ballad of Paladin
+remove song Tonight We Ride
+remove song Oklahoma
+remove song I’d Like to Be in Texas for the Roundup in the Spring
+remove song Call You Cowboy
+remove song Bonanza
+remove song The Old Double Diamond
+remove song Lorena
+remove song The Hanging Tree
+remove song Dust Eatin’ Cowboys
+remove song Cowpoke
+remove song Old Timer
+remove song Red Headed Stranger
+remove song The Last Wild White Buffalo
+remove song The Ballad of Jesse James
+remove song Faster Horses (The Cowboy and the Poet)
+remove song El Dorado
+remove song Goodbye Old Paint
+remove song Tom Dooley
+remove song I Want to Be a Cowboy’s Sweetheart
+remove song Wayfaring Stranger
+remove song The Old Cantina
+remove song I Ride an Old Paint
+remove song Grandpa (Tell Me 'Bout the Good Old Days)
+remove song Someday Soon
+remove song Summer Wages
+remove song The Battle of New Orleans
+remove song (I've Got Spurs That) Jingle, Jangle, Jingle
+remove song Blue Shadows on the Trail
+remove song Oh Susanna
+remove song Sweet Betsy from Pike
+remove song The Colorado Trail
+remove song When Roy Rogers Was Around
+remove song Navajo Rug
+remove song Remember the Alamo
+remove song Billy the Kid
+remove song Life's Railway to Heaven
+remove song The Old Chisholm Trail
+remove song Whatever Happened to Randolph Scott
+remove song Desert Pete
+remove song Rocky Mountain High
+remove song Theme from The Searchers
+remove song Wagon Wheels
+remove song Vaya con Dios (May God Be with You)
+remove song Ridin’ Down the Canyon
+remove song Shifting Whispering Sands
+remove song Oklahoma Hills
+remove song The Master’s Call
+remove song Livin' on a Prayer
+remove song Pour Some Sugar on Me
+remove song Hungry Like the Wolf
+remove song Billie Jean
+remove song When Doves Cry
+remove song I Can't Go for That (No Can Do)
+remove song Sweet Child O' Mine
+remove song Like a Virgin
+remove song Walk This Way
+remove song You Shook Me All Night Long
+remove song Don't Stop Believin'
+remove song How Will I Know
+remove song With or Without You
+remove song Walk Like an Egyptian
+
+print blocks
+print songs
+print artists

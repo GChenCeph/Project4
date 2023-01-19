@@ -1,0 +1,268 @@
+Memory pool expanded to be 64 bytes.
+|Sweet Caroline (Good Times Never Seemed So Good)| is added to the song database.
+|Shout| is added to the song database.
+Memory pool expanded to be 96 bytes.
+|Brown Eyed Girl| is added to the song database.
+Memory pool expanded to be 128 bytes.
+|The Way You Look Tonight| is added to the song database.
+|Twist And Shout| is added to the song database.
+Song hash table size doubled.
+|At Last| is added to the song database.
+Memory pool expanded to be 160 bytes.
+|What A Wonderful World| is added to the song database.
+|My Girl| is added to the song database.
+Memory pool expanded to be 192 bytes.
+|Can’t Help Falling In Love| is added to the song database.
+Memory pool expanded to be 224 bytes.
+|The Twist| is added to the song database.
+Song hash table size doubled.
+|Build Me Up Buttercup| is added to the song database.
+Memory pool expanded to be 256 bytes.
+|Unchained Melody| is added to the song database.
+|Stand By Me| is added to the song database.
+Memory pool expanded to be 288 bytes.
+|Fly Me To The Moon| is added to the song database.
+Memory pool expanded to be 320 bytes.
+Memory pool expanded to be 352 bytes.
+|I Can’t Help Myself (Sugar Pie, Honey Bunch)| is added to the song database.
+Memory pool expanded to be 384 bytes.
+|Ain’t No Mountain High Enough| is added to the song database.
+|All You Need Is Love| is added to the song database.
+Memory pool expanded to be 416 bytes.
+|Ring Of Fire| is added to the song database.
+Memory pool expanded to be 448 bytes.
+|(Sittin’ On) The Dock Of The Bay| is added to the song database.
+Memory pool expanded to be 480 bytes.
+|When A Man Loves A Woman| is added to the song database.
+Song hash table size doubled.
+|Respect| is added to the song database.
+Memory pool expanded to be 512 bytes.
+|Wouldn’t It Be Nice| is added to the song database.
+|Mustang Sally| is added to the song database.
+|L-O-V-E| is added to the song database.
+Memory pool expanded to be 544 bytes.
+|Can’t Take My Eyes Off You| is added to the song database.
+Memory pool expanded to be 576 bytes.
+|Runaround Sue| is added to the song database.
+|Proud Mary| is added to the song database.
+Memory pool expanded to be 608 bytes.
+|Ain’t Too Proud To Beg| is added to the song database.
+|Twist And Shout| duplicates a record already in the song database.
+|In My Life| is added to the song database.
+Memory pool expanded to be 640 bytes.
+|Oh, Pretty Woman| is added to the song database.
+Memory pool expanded to be 672 bytes.
+|New York, New York| is added to the song database.
+|It Had To Be You| is added to the song database.
+Memory pool expanded to be 704 bytes.
+|How Sweet It Is To Be Loved By You| is added to the song database.
+Memory pool expanded to be 736 bytes.
+|I Want You Back| is added to the song database.
+|Sugar Sugar| is added to the song database.
+Memory pool expanded to be 768 bytes.
+|Do You Love Me| is added to the song database.
+|I Want To Hold Your Hand| is added to the song database.
+Memory pool expanded to be 800 bytes.
+|I Saw Her Standing There| is added to the song database.
+Memory pool expanded to be 832 bytes.
+|I Got You Babe| is added to the song database.
+Memory pool expanded to be 864 bytes.
+|I Got You (I Feel Good)| is added to the song database.
+Song hash table size doubled.
+|Let’s Twist Again| is added to the song database.
+Memory pool expanded to be 896 bytes.
+|Happy Together| is added to the song database.
+|For Once In My Life| is added to the song database.
+Memory pool expanded to be 928 bytes.
+|Here Comes The Sun| is added to the song database.
+Memory pool expanded to be 960 bytes.
+|(I Can’t Get No) Satisfaction| is added to the song database.
+Memory pool expanded to be 992 bytes.
+|Save The Last Dance For Me| is added to the song database.
+|Crazy| is added to the song database.
+Memory pool expanded to be 1024 bytes.
+|God Only Knows| is added to the song database.
+|When I’m Sixty-Four| is added to the song database.
+Memory pool expanded to be 1056 bytes.
+|Beyond The Sea| is added to the song database.
+Memory pool expanded to be 1088 bytes.
+|With A Little Help From My Friends| is added to the song database.
+Memory pool expanded to be 1120 bytes.
+|Ain’t That a Kick in the Head?| is added to the song database.
+Memory pool expanded to be 1152 bytes.
+|Love and Marriage| is added to the song database.
+|I’m A Believer| is added to the song database.
+Memory pool expanded to be 1184 bytes.
+|Summer Wind| is added to the song database.
+Memory pool expanded to be 1216 bytes.
+|The Way You Do The Things You Do| is added to the song database.
+|Baby I Need Your Loving| is added to the song database.
+Memory pool expanded to be 1248 bytes.
+|Hey Jude| is added to the song database.
+Memory pool expanded to be 1280 bytes.
+|Twistin’ The Night Away| is added to the song database.
+|Bad Moon Rising| is added to the song database.
+|Something| is added to the song database.
+Memory pool expanded to be 1312 bytes.
+|Luck Be A Lady| is added to the song database.
+Memory pool expanded to be 1344 bytes.
+|Good Vibrations| is added to the song database.
+|Jackson| is added to the song database.
+|Chapel Of Love| is added to the song database.
+Memory pool expanded to be 1376 bytes.
+|Under The Boardwalk| is added to the song database.
+Memory pool expanded to be 1408 bytes.
+|You’ve Lost That Lovin’ Feelin’| is added to the song database.
+Memory pool expanded to be 1440 bytes.
+|These Arms Of Mine| is added to the song database.
+Memory pool expanded to be 1472 bytes.
+|(Your Love Keeps Lifting Me) Higher And Higher| is added to the song database.
+Memory pool expanded to be 1504 bytes.
+|Dance To The Music| is added to the song database.
+|Hang On Sloopy| is added to the song database.
+Memory pool expanded to be 1536 bytes.
+|Mony Mony| is added to the song database.
+|Magic Carpet Ride| is added to the song database.
+Memory pool expanded to be 1568 bytes.
+|Louie Louie| is added to the song database.
+|Can’t Buy Me Love| is added to the song database.
+Memory pool expanded to be 1600 bytes.
+|Suspicious Minds| is added to the song database.
+Memory pool expanded to be 1632 bytes.
+|Ob-La-Da Ob-La-Di| is added to the song database.
+|Love Me Do| is added to the song database.
+|Moon River| is added to the song database.
+Memory pool expanded to be 1664 bytes.
+|It’s Not Unusual| is added to the song database.
+Song hash table size doubled.
+Memory pool expanded to be 1696 bytes.
+|Folsom Prison Blues| is added to the song database.
+Memory pool expanded to be 1728 bytes.
+|I Heard It Through The Grapevine| is added to the song database.
+|Georgia On My Mind| is added to the song database.
+Memory pool expanded to be 1760 bytes.
+|I Say A Little Prayer| is added to the song database.
+Memory pool expanded to be 1792 bytes.
+|Eight Days A Week| is added to the song database.
+|Then He Kissed Me| is added to the song database.
+Memory pool expanded to be 1824 bytes.
+|And I Love Her| is added to the song database.
+|Come Together| is added to the song database.
+Memory pool expanded to be 1856 bytes.
+|Honky Tonk Women| is added to the song database.
+Memory pool expanded to be 1888 bytes.
+|Everybody Loves Somebody| is added to the song database.
+|Stop! In The Name Of Love| is added to the song database.
+Memory pool expanded to be 1920 bytes.
+|Barbara Ann| is added to the song database.
+|California Girls| is added to the song database.
+Memory pool expanded to be 1952 bytes.
+|All My Loving| is added to the song database.
+|Born To Be Wild| is added to the song database.
+Memory pool expanded to be 1984 bytes.
+|Down On The Corner/Fortunate Son| is added to the song database.
+Memory pool expanded to be 2016 bytes.
+|This Magic Moment| is added to the song database.
+Memory pool expanded to be 2048 bytes.
+|My Cherie Amour| is added to the song database.
+|Chain Of Fools| is added to the song database.
+|The Way You Do The Things You Do| 0
+|Ob-La-Da Ob-La-Di| 5
+|Unchained Melody| 6
+|Wouldn’t It Be Nice| 7
+|I Want To Hold Your Hand| 9
+|With A Little Help From My Friends| 10
+|Folsom Prison Blues| 11
+|Hey Jude| 18
+|Dance To The Music| 19
+|All You Need Is Love| 20
+|Let’s Twist Again| 23
+|I’m A Believer| 27
+|Down On The Corner/Fortunate Son| 29
+|Honky Tonk Women| 30
+|Love and Marriage| 35
+|All My Loving| 36
+|I Can’t Help Myself (Sugar Pie, Honey Bunch)| 37
+|Proud Mary| 38
+|Sweet Caroline (Good Times Never Seemed So Good)| 39
+|Twistin’ The Night Away| 40
+|And I Love Her| 41
+|I Got You (I Feel Good)| 45
+|Ain’t No Mountain High Enough| 46
+|These Arms Of Mine| 58
+|Shout| 71
+|Good Vibrations| 72
+|You’ve Lost That Lovin’ Feelin’| 74
+|Luck Be A Lady| 81
+|Can’t Take My Eyes Off You| 85
+|When A Man Loves A Woman| 86
+|Jackson| 94
+|Stop! In The Name Of Love| 95
+|Summer Wind| 97
+|What A Wonderful World| 100
+|Barbara Ann| 101
+|Louie Louie| 102
+|In My Life| 104
+|I Saw Her Standing There| 105
+|Here Comes The Sun| 106
+|For Once In My Life| 107
+|God Only Knows| 109
+|Do You Love Me| 111
+|Love Me Do| 112
+|My Girl| 118
+|Can’t Help Falling In Love| 119
+|Ring Of Fire| 120
+|When I’m Sixty-Four| 122
+|It’s Not Unusual| 124
+|Eight Days A Week| 125
+|Ain’t That a Kick in the Head?| 133
+|I Want You Back| 135
+|Then He Kissed Me| 137
+|Runaround Sue| 141
+|Under The Boardwalk| 143
+|Moon River| 146
+|I Heard It Through The Grapevine| 147
+|(Your Love Keeps Lifting Me) Higher And Higher| 159
+|At Last| 162
+|Everybody Loves Somebody| 163
+|(Sittin’ On) The Dock Of The Bay| 167
+|Hang On Sloopy| 171
+|Can’t Buy Me Love| 181
+|It Had To Be You| 185
+|New York, New York| 188
+|This Magic Moment| 192
+|Save The Last Dance For Me| 200
+|Ain’t Too Proud To Beg| 204
+|Happy Together| 205
+|How Sweet It Is To Be Loved By You| 207
+|Stand By Me| 215
+|Bad Moon Rising| 216
+|The Way You Look Tonight| 217
+|Suspicious Minds| 218
+|Twist And Shout| 219
+|The Twist| 220
+|(I Can’t Get No) Satisfaction| 227
+|Mony Mony| 230
+|California Girls| 251
+|Beyond The Sea| 253
+|Chain Of Fools| 254
+|Oh, Pretty Woman| 258
+|Chapel Of Love| 260
+|My Cherie Amour| 265
+|Born To Be Wild| 269
+|I Got You Babe| 276
+|Fly Me To The Moon| 278
+|Build Me Up Buttercup| 285
+|I Say A Little Prayer| 286
+|L-O-V-E| 290
+|Georgia On My Mind| 292
+|Magic Carpet Ride| 295
+|Baby I Need Your Loving| 297
+|Sugar Sugar| 300
+|Something| 302
+|Respect| 311
+|Mustang Sally| 314
+|Come Together| 315
+|Crazy| 316
+|Brown Eyed Girl| 318
+total songs: 99
